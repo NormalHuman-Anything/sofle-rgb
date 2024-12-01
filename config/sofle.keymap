@@ -91,7 +91,7 @@
             //              |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&bt BT_CLR  &kp F1           &kp F2           &kp F3           &kp F4           &bt BT_NXT                         &rgb_ug RGB_TOG    &rgb_ug RGB_BRI  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &kp F10    &kp F11
+&bt BT_CLR  &kp F1           &kp F2           &kp F3           &none            &bt BT_NXT                         &rgb_ug RGB_TOG    &rgb_ug RGB_BRI  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &kp F10    &kp F11
 &trans      &bt BT_SEL 0     &bt BT_SEL 1     &bt BT_SEL 2     &bt BT_SEL 3     &bt BT_PRV                         &rgb_ug RGB_EFF    &rgb_ug RGB_BRD  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &kp INS    &kp F12
 &trans      &rgb_ug RGB_TOG  &rgb_ug RGB_EFR  &rgb_ug RGB_EFF  &rgb_ug RGB_BRD  &rgb_ug RGB_BRI                    &kp PG_DN          &kp LEFT         &kp DOWN         &kp RIGHT        &kp DEL    &mt RCTRL CLCK
 &trans      &bt BT_CLR       &rgb_ug RGB_HUD  &rgb_ug RGB_HUI  &rgb_ug RGB_SAD  &rgb_ug RGB_SAI  &trans    &trans  &kp SLCK           &kp C_PREV       &kp C_PP         &kp C_NEXT       &kp PSCRN  &trans
