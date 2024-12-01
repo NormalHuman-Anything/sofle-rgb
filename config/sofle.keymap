@@ -15,7 +15,7 @@
 &right_encoder { resolution = <2>; };
 
 #define MAIN  0
-#define QWERTY  1
+#define SUB  1
 #define LOWER   2
 #define RAISE   3
 
@@ -44,7 +44,7 @@
                 <&inc_dec_kp PG_DN PG_UP>;
         };
 
-        Sub_layer {
+        sub_layer {
             // ------------------------------------------------------------------------------------------------------------
             // |  `    |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   \   |
             // |  TAB  |  Q  |  W  |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   | BKSPC |
